@@ -1,0 +1,12 @@
+{
+  "name": "cp",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vite": "^6.2.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
